@@ -58,7 +58,8 @@ int main(void)
 	
 	//set bit 12 de chon ODR12 len muc 1 ( xem reference manual PAGE 159) 
 	GPIOD_ODR->bit12=1;
-	// thay doi 1
+	// thay doi BLINK_LED
+	
 	
 	
 }
